@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sudosudomin666.github.io
+Token: 82a7d62a6d3c796fb754ae9c34e2807fe5537660b1e6fc95ed772b5539a31b26
